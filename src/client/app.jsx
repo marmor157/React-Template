@@ -1,10 +1,9 @@
 import React from 'react';
-import styles from './app.scss'
 
 
 export default () => {
   return (
-    <div className={styles.tak}>
+    <div>
         Base React Template
     </div>
   )
